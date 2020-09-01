@@ -1,4 +1,6 @@
-#!/bin/bash
+#!/usr/bin/env bash
+# variabila world in bash
+world="World!"
 
-echo Hello World!
+echo Hello $world
 
